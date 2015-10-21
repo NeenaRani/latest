@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+sub(int,int);
+void main()
+{
+  int a,b,c;
+  a=10;
+  b=5;
+  sub(a,b);
+  getch();
+}
+sub(int a,int b)
+{
+  c=a-b;
+  printf(c);
+}
