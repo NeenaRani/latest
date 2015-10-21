@@ -5,6 +5,7 @@ void main()
 {
 int a,b,c;
 add();
+getch();
 }
 void add(int a,int b)
 {
