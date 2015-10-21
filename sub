@@ -1,3 +1,4 @@
+/*addition function*/
 #include<stdio.h>
 #include<conio.h>
 sub(int,int);
