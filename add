@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+add(int,int);
+void main()
+{
+int a,b,c;
+add();
+}
+void add(int a,int b)
+{
+  c=a+b;
+  printf(c);
+}
+
+
+  
+  
