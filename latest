@@ -2,4 +2,7 @@
 #include<conio.h>
 void main()
 {
+  a=10;
+  b=20;
 }
+
